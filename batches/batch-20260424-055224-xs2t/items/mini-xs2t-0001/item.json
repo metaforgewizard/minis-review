@@ -1,0 +1,23 @@
+{
+  "item_id": "mini-xs2t-0001",
+  "source_prompt": "goblin shaman with gnarled staff and bone fetishes",
+  "style_tags": [
+    "fantasy",
+    "tribal"
+  ],
+  "scale": "28mm",
+  "priority": 3,
+  "notes": "first real run",
+  "candidates": [
+    {
+      "candidate": 1,
+      "image_path": "batches/batch-20260424-055224-xs2t/items/mini-xs2t-0001/candidate-1.png",
+      "sidecar_path": "batches/batch-20260424-055224-xs2t/items/mini-xs2t-0001/candidate-1.json",
+      "pages_url": "https://metaforgewizard.github.io/minis-review/batches/batch-20260424-055224-xs2t/items/mini-xs2t-0001/candidate-1.png",
+      "raw_url": "https://raw.githubusercontent.com/metaforgewizard/minis-review/main/batches/batch-20260424-055224-xs2t/items/mini-xs2t-0001/candidate-1.png",
+      "seed": 456345829,
+      "backend": "openai",
+      "model": "dall-e-3"
+    }
+  ]
+}

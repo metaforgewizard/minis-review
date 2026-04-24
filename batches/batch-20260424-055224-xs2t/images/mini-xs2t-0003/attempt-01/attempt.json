@@ -1,0 +1,14 @@
+{
+  "item_id": "mini-xs2t-0003",
+  "batch_id": "batch-20260424-055224-xs2t",
+  "attempt": 1,
+  "started_at": "2026-04-24T05:56:03Z",
+  "finished_at": "2026-04-24T05:56:05Z",
+  "status": "failure",
+  "backend": "openai",
+  "model": "gpt-image-1",
+  "seed": 1349232482,
+  "candidate_count": 0,
+  "error_class": "permanent",
+  "error_message": "OpenAI bad request: {\n  \"error\": {\n    \"message\": \"Unknown parameter: 'response_format'.\",\n    \"type\": \"invalid_request_error\",\n    \"param\": \"response_format\",\n    \"code\": \"unknown_parameter\"\n  }\n}"
+}

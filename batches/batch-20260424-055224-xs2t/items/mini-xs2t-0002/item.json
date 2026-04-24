@@ -1,0 +1,23 @@
+{
+  "item_id": "mini-xs2t-0002",
+  "source_prompt": "dwarf paladin in ornate plate armor with warhammer",
+  "style_tags": [
+    "fantasy",
+    "heroic"
+  ],
+  "scale": "28mm",
+  "priority": 5,
+  "notes": "",
+  "candidates": [
+    {
+      "candidate": 1,
+      "image_path": "batches/batch-20260424-055224-xs2t/items/mini-xs2t-0002/candidate-1.png",
+      "sidecar_path": "batches/batch-20260424-055224-xs2t/items/mini-xs2t-0002/candidate-1.json",
+      "pages_url": "https://metaforgewizard.github.io/minis-review/batches/batch-20260424-055224-xs2t/items/mini-xs2t-0002/candidate-1.png",
+      "raw_url": "https://raw.githubusercontent.com/metaforgewizard/minis-review/main/batches/batch-20260424-055224-xs2t/items/mini-xs2t-0002/candidate-1.png",
+      "seed": 2475946004,
+      "backend": "openai",
+      "model": "dall-e-3"
+    }
+  ]
+}

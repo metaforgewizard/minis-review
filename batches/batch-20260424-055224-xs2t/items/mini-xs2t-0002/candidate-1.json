@@ -1,0 +1,23 @@
+{
+  "item_id": "mini-xs2t-0002",
+  "batch_id": "batch-20260424-055224-xs2t",
+  "attempt": 3,
+  "candidate": 1,
+  "rendered_prompt": "dwarf paladin in ornate plate armor with warhammer, fantasy, heroic, 28mm, tabletop miniature, neutral grey background, 3/4 view, studio lighting, high detail",
+  "negative_prompt": "text, watermark, logo, multiple figures, background scene, blurry",
+  "source_prompt": "dwarf paladin in ornate plate armor with warhammer",
+  "backend": "openai",
+  "model": "dall-e-3",
+  "seed": 2475946004,
+  "image_size": [
+    1024,
+    1024
+  ],
+  "steps": 30,
+  "cfg_scale": 7.0,
+  "generation_started_at": "2026-04-24T06:00:17Z",
+  "generation_finished_at": "2026-04-24T06:00:34Z",
+  "duration_seconds": 17.0,
+  "backend_response_id": "1777010433",
+  "worker_version": "0.1.0"
+}

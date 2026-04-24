@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "batch-20260424-055224-xs2t",
+  "published_at": "2026-04-24T06:01:14Z",
+  "source_manifest_version": "1.0",
+  "item_count": 3,
+  "items": [
+    {
+      "item_id": "mini-xs2t-0001",
+      "source_prompt": "goblin shaman with gnarled staff and bone fetishes",
+      "style_tags": [
+        "fantasy",
+        "tribal"
+      ],
+      "scale": "28mm",
+      "priority": 3,
+      "notes": "first real run",
+      "candidates": [
+        {
+          "candidate": 1,
+          "image_path": "batches/batch-20260424-055224-xs2t/items/mini-xs2t-0001/candidate-1.png",
+          "sidecar_path": "batches/batch-20260424-055224-xs2t/items/mini-xs2t-0001/candidate-1.json",
+          "pages_url": "https://metaforgewizard.github.io/minis-review/batches/batch-20260424-055224-xs2t/items/mini-xs2t-0001/candidate-1.png",
+          "raw_url": "https://raw.githubusercontent.com/metaforgewizard/minis-review/main/batches/batch-20260424-055224-xs2t/items/mini-xs2t-0001/candidate-1.png",
+          "seed": 456345829,
+          "backend": "openai",
+          "model": "dall-e-3"
+        }
+      ]
+    },
+    {
+      "item_id": "mini-xs2t-0003",
+      "source_prompt": "elven archer with cloak and longbow",
+      "style_tags": [
+        "fantasy",
+        "ranger"
+      ],
+      "scale": "28mm",
+      "priority": 4,
+      "notes": "",
+      "candidates": [
+        {
+          "candidate": 1,
+          "image_path": "batches/batch-20260424-055224-xs2t/items/mini-xs2t-0003/candidate-1.png",
+          "sidecar_path": "batches/batch-20260424-055224-xs2t/items/mini-xs2t-0003/candidate-1.json",
+          "pages_url": "https://metaforgewizard.github.io/minis-review/batches/batch-20260424-055224-xs2t/items/mini-xs2t-0003/candidate-1.png",
+          "raw_url": "https://raw.githubusercontent.com/metaforgewizard/minis-review/main/batches/batch-20260424-055224-xs2t/items/mini-xs2t-0003/candidate-1.png",
+          "seed": 2451233301,
+          "backend": "openai",
+          "model": "dall-e-3"
+        }
+      ]
+    },
+    {
+      "item_id": "mini-xs2t-0002",
+      "source_prompt": "dwarf paladin in ornate plate armor with warhammer",
+      "style_tags": [
+        "fantasy",
+        "heroic"
+      ],
+      "scale": "28mm",
+      "priority": 5,
+      "notes": "",
+      "candidates": [
+        {
+          "candidate": 1,
+          "image_path": "batches/batch-20260424-055224-xs2t/items/mini-xs2t-0002/candidate-1.png",
+          "sidecar_path": "batches/batch-20260424-055224-xs2t/items/mini-xs2t-0002/candidate-1.json",
+          "pages_url": "https://metaforgewizard.github.io/minis-review/batches/batch-20260424-055224-xs2t/items/mini-xs2t-0002/candidate-1.png",
+          "raw_url": "https://raw.githubusercontent.com/metaforgewizard/minis-review/main/batches/batch-20260424-055224-xs2t/items/mini-xs2t-0002/candidate-1.png",
+          "seed": 2475946004,
+          "backend": "openai",
+          "model": "dall-e-3"
+        }
+      ]
+    }
+  ]
+}

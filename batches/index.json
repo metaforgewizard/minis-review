@@ -1,7 +1,13 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-04-24T05:13:37Z",
+  "updated_at": "2026-04-24T06:01:14Z",
   "batches": [
+    {
+      "batch_id": "batch-20260424-055224-xs2t",
+      "published_at": "2026-04-24T05:52:24Z",
+      "item_count": 3,
+      "batch_json_path": "batches/batch-20260424-055224-xs2t/batch.json"
+    },
     {
       "batch_id": "batch-20260424-051142-7n6d",
       "published_at": "2026-04-24T05:11:42Z",

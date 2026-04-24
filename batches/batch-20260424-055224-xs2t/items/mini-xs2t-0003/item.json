@@ -1,0 +1,23 @@
+{
+  "item_id": "mini-xs2t-0003",
+  "source_prompt": "elven archer with cloak and longbow",
+  "style_tags": [
+    "fantasy",
+    "ranger"
+  ],
+  "scale": "28mm",
+  "priority": 4,
+  "notes": "",
+  "candidates": [
+    {
+      "candidate": 1,
+      "image_path": "batches/batch-20260424-055224-xs2t/items/mini-xs2t-0003/candidate-1.png",
+      "sidecar_path": "batches/batch-20260424-055224-xs2t/items/mini-xs2t-0003/candidate-1.json",
+      "pages_url": "https://metaforgewizard.github.io/minis-review/batches/batch-20260424-055224-xs2t/items/mini-xs2t-0003/candidate-1.png",
+      "raw_url": "https://raw.githubusercontent.com/metaforgewizard/minis-review/main/batches/batch-20260424-055224-xs2t/items/mini-xs2t-0003/candidate-1.png",
+      "seed": 2451233301,
+      "backend": "openai",
+      "model": "dall-e-3"
+    }
+  ]
+}

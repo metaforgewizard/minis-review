@@ -1,0 +1,10 @@
+{
+  "item_id": "mini-xs2t-0003",
+  "attempt": 2,
+  "error_class": "permanent",
+  "error_message": "OpenAI bad request: {\n  \"error\": {\n    \"message\": \"Invalid 'n': integer above maximum value. Expected a value <= 1, but got 2 instead.\",\n    \"type\": \"invalid_request_error\",\n    \"param\": \"n\",\n    \"code\": \"integer_above_max_value\"\n  }\n}",
+  "backend": "openai",
+  "model": "dall-e-3",
+  "raw_backend_response": null,
+  "occurred_at": "2026-04-24T05:59:07Z"
+}

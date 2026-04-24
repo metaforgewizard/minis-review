@@ -1,0 +1,14 @@
+{
+  "item_id": "mini-xs2t-0002",
+  "batch_id": "batch-20260424-055224-xs2t",
+  "attempt": 3,
+  "started_at": "2026-04-24T06:00:17Z",
+  "finished_at": "2026-04-24T06:00:34Z",
+  "status": "success",
+  "backend": "openai",
+  "model": "dall-e-3",
+  "seed": 2475946004,
+  "candidate_count": 1,
+  "error_class": null,
+  "error_message": null
+}

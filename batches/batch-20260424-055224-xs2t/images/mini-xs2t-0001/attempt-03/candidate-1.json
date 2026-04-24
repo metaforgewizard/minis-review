@@ -1,0 +1,23 @@
+{
+  "item_id": "mini-xs2t-0001",
+  "batch_id": "batch-20260424-055224-xs2t",
+  "attempt": 3,
+  "candidate": 1,
+  "rendered_prompt": "goblin shaman with gnarled staff and bone fetishes, fantasy, tribal, 28mm, tabletop miniature, neutral grey background, 3/4 view, studio lighting, high detail",
+  "negative_prompt": "text, watermark, logo, multiple figures, background scene, blurry",
+  "source_prompt": "goblin shaman with gnarled staff and bone fetishes",
+  "backend": "openai",
+  "model": "dall-e-3",
+  "seed": 456345829,
+  "image_size": [
+    1024,
+    1024
+  ],
+  "steps": 30,
+  "cfg_scale": 7.0,
+  "generation_started_at": "2026-04-24T06:00:00Z",
+  "generation_finished_at": "2026-04-24T06:00:15Z",
+  "duration_seconds": 15.0,
+  "backend_response_id": "1777010414",
+  "worker_version": "0.1.0"
+}

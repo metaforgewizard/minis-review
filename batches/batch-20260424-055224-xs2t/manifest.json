@@ -1,0 +1,51 @@
+{
+  "manifest_version": "1.0",
+  "batch_id": "batch-20260424-055224-xs2t",
+  "created_at": "2026-04-24T05:52:24Z",
+  "source": "csv:real-batch-1.csv",
+  "item_count": 3,
+  "items": [
+    {
+      "item_id": "mini-xs2t-0001",
+      "prompt": "goblin shaman with gnarled staff and bone fetishes",
+      "style_tags": [
+        "fantasy",
+        "tribal"
+      ],
+      "scale": "28mm",
+      "priority": 3,
+      "notes": "first real run",
+      "status": "pending_image_generation",
+      "dedup_hash": "b74abcf3de1e72b48fa1c945c268d1cf19c58d5abeda28487e1c9fefa3b27cac",
+      "created_at": "2026-04-24T05:52:24Z"
+    },
+    {
+      "item_id": "mini-xs2t-0002",
+      "prompt": "dwarf paladin in ornate plate armor with warhammer",
+      "style_tags": [
+        "fantasy",
+        "heroic"
+      ],
+      "scale": "28mm",
+      "priority": 5,
+      "notes": "",
+      "status": "pending_image_generation",
+      "dedup_hash": "90b8103c62eed5fcb08d6e2412c3ac51692306dfa1e81ea078d6ca1f8dfeca52",
+      "created_at": "2026-04-24T05:52:24Z"
+    },
+    {
+      "item_id": "mini-xs2t-0003",
+      "prompt": "elven archer with cloak and longbow",
+      "style_tags": [
+        "fantasy",
+        "ranger"
+      ],
+      "scale": "28mm",
+      "priority": 4,
+      "notes": "",
+      "status": "pending_image_generation",
+      "dedup_hash": "6703e7ab90aba3210f7aabb9c6ff857c1832b58956048bf89507b6f9f3d04eda",
+      "created_at": "2026-04-24T05:52:24Z"
+    }
+  ]
+}

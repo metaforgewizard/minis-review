@@ -1,0 +1,14 @@
+{
+  "item_id": "mini-7n6d-0001",
+  "batch_id": "batch-20260424-051142-7n6d",
+  "attempt": 1,
+  "started_at": "2026-04-24T05:12:52Z",
+  "finished_at": "2026-04-24T05:12:52Z",
+  "status": "success",
+  "backend": "mock",
+  "model": "mock-model-v1",
+  "seed": 2490828268,
+  "candidate_count": 2,
+  "error_class": null,
+  "error_message": null
+}

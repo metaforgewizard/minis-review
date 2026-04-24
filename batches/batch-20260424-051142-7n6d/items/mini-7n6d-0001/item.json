@@ -1,0 +1,33 @@
+{
+  "item_id": "mini-7n6d-0001",
+  "source_prompt": "goblin shaman with a gnarled staff",
+  "style_tags": [
+    "armor",
+    "fantasy"
+  ],
+  "scale": "28mm",
+  "priority": 3,
+  "notes": "smoke test item 1",
+  "candidates": [
+    {
+      "candidate": 1,
+      "image_path": "batches/batch-20260424-051142-7n6d/items/mini-7n6d-0001/candidate-1.png",
+      "sidecar_path": "batches/batch-20260424-051142-7n6d/items/mini-7n6d-0001/candidate-1.json",
+      "pages_url": "https://metaforgewizard.github.io/minis-review/batches/batch-20260424-051142-7n6d/items/mini-7n6d-0001/candidate-1.png",
+      "raw_url": "https://raw.githubusercontent.com/metaforgewizard/minis-review/main/batches/batch-20260424-051142-7n6d/items/mini-7n6d-0001/candidate-1.png",
+      "seed": 2490828268,
+      "backend": "mock",
+      "model": "mock-model-v1"
+    },
+    {
+      "candidate": 2,
+      "image_path": "batches/batch-20260424-051142-7n6d/items/mini-7n6d-0001/candidate-2.png",
+      "sidecar_path": "batches/batch-20260424-051142-7n6d/items/mini-7n6d-0001/candidate-2.json",
+      "pages_url": "https://metaforgewizard.github.io/minis-review/batches/batch-20260424-051142-7n6d/items/mini-7n6d-0001/candidate-2.png",
+      "raw_url": "https://raw.githubusercontent.com/metaforgewizard/minis-review/main/batches/batch-20260424-051142-7n6d/items/mini-7n6d-0001/candidate-2.png",
+      "seed": 2490828268,
+      "backend": "mock",
+      "model": "mock-model-v1"
+    }
+  ]
+}

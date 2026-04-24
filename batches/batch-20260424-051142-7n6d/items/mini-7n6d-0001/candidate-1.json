@@ -1,0 +1,23 @@
+{
+  "item_id": "mini-7n6d-0001",
+  "batch_id": "batch-20260424-051142-7n6d",
+  "attempt": 1,
+  "candidate": 1,
+  "rendered_prompt": "goblin shaman with a gnarled staff, armor, fantasy, 28mm, tabletop miniature, neutral grey background, 3/4 view, studio lighting, high detail, crisp edges",
+  "negative_prompt": "text, watermark, logo, multiple figures, background scene, blurry",
+  "source_prompt": "goblin shaman with a gnarled staff",
+  "backend": "mock",
+  "model": "mock-model-v1",
+  "seed": 2490828268,
+  "image_size": [
+    1024,
+    1024
+  ],
+  "steps": 30,
+  "cfg_scale": 7.0,
+  "generation_started_at": "2026-04-24T05:12:52Z",
+  "generation_finished_at": "2026-04-24T05:12:52Z",
+  "duration_seconds": 0.0,
+  "backend_response_id": "mock-2490828268-1",
+  "worker_version": "0.1.0"
+}

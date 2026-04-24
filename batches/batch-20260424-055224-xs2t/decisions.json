@@ -4,20 +4,20 @@
   "updated_at": "2026-04-24T06:01:14Z",
   "decisions": {
     "mini-xs2t-0001": {
-      "status": "undecided",
-      "chosen_candidate": null,
+      "status": "approved",
+      "chosen_candidate": 1,
       "decided_at": null,
       "notes": ""
     },
     "mini-xs2t-0002": {
-      "status": "undecided",
-      "chosen_candidate": null,
+      "status": "approved",
+      "chosen_candidate": 1,
       "decided_at": null,
       "notes": ""
     },
     "mini-xs2t-0003": {
-      "status": "undecided",
-      "chosen_candidate": null,
+      "status": "approved",
+      "chosen_candidate": 1,
       "decided_at": null,
       "notes": ""
     }

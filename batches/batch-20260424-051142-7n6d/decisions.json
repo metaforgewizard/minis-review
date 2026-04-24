@@ -4,15 +4,15 @@
   "updated_at": "2026-04-24T05:13:37Z",
   "decisions": {
     "mini-7n6d-0001": {
-      "status": "undecided",
-      "chosen_candidate": null,
-      "decided_at": null,
+      "status": "approved",
+      "chosen_candidate": 1,
+      "decided_at": "2026-04-24T05:13:37Z",
       "notes": ""
     },
     "mini-7n6d-0002": {
-      "status": "undecided",
-      "chosen_candidate": null,
-      "decided_at": null,
+      "status": "approved",
+      "chosen_candidate": 1,
+      "decided_at": "2026-04-24T05:13:37Z",
       "notes": ""
     }
   }
